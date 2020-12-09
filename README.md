@@ -1,6 +1,3 @@
-project_thenumberofprojectsbeforethisplus1
-==========================================
-
 This is little messy "programme" that arranges music files into folders according to the artists who perform each song according to a database 'BandDataBase.py' .
 
 I created it because I needed a script to tidy up my music files in to folder and then extend it to programme.
